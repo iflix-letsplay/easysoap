@@ -1,11 +1,11 @@
 {
-  "name": "easysoap",
+  "name": "@iflix/easysoap",
   "description": "a easy to use Soap Client for Node.js",
   "author": {
     "name": "Michael Röber",
     "email": "moszeed@gmail.com"
   },
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "./src/easysoap.js",
   "dependencies": {
     "request": "^2.69.0",
